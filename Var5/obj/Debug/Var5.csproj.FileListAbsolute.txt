@@ -1,0 +1,58 @@
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\Var5.exe.config
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\Var5.exe
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\Var5.pdb
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\MainWindow.g.cs
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\App.g.cs
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5_MarkupCompile.cache
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5_MarkupCompile.lref
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\MainWindow.baml
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.g.resources
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.Properties.Resources.resources
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.exe
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.pdb
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\EntityFramework.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\EntityFramework.xml
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5_Content.g.cs
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\Var5.csproj.CopyComplete
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\MaterialDesignColors.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\MaterialDesignColors.pdb
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\студент\Desktop\кудаяпопал\демка\Demos\Var5\obj\Debug\App.baml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\Var5.exe.config
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\Var5.exe
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\Var5.pdb
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\EntityFramework.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\MaterialDesignColors.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\EntityFramework.xml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\MaterialDesignColors.pdb
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\MainWindow.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\App.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5_Content.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5_MarkupCompile.cache
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5_MarkupCompile.lref
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\App.baml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\MainWindow.baml
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.g.resources
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.Properties.Resources.resources
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.csproj.CopyComplete
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.exe
+C:\Users\студент\Desktop\учёт сотрудников\Demos\Var5\obj\Debug\Var5.pdb

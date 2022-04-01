@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a472ca38893b45b5b018c2b6dbe772d4" Name="Diagram1" ZoomLevel="28">
+        <EntityTypeShape EntityType="de05Mdl.Agent" Width="1.5" PointX="3" PointY="10.25" />
+        <EntityTypeShape EntityType="de05Mdl.AgentPriorityHistory" Width="1.5" PointX="5.25" PointY="18.875" />
+        <EntityTypeShape EntityType="de05Mdl.AgentType" Width="1.5" PointX="0.75" PointY="11.375" />
+        <EntityTypeShape EntityType="de05Mdl.Material" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="de05Mdl.MaterialCountHistory" Width="1.5" PointX="5.25" PointY="15.875" />
+        <EntityTypeShape EntityType="de05Mdl.MaterialType" Width="1.5" PointX="0.75" PointY="4" />
+        <EntityTypeShape EntityType="de05Mdl.Product" Width="1.5" PointX="3" PointY="5.875" />
+        <EntityTypeShape EntityType="de05Mdl.ProductCostHistory" Width="1.5" PointX="5.25" PointY="9.375" />
+        <EntityTypeShape EntityType="de05Mdl.ProductMaterial" Width="1.5" PointX="5.25" PointY="6.625" />
+        <EntityTypeShape EntityType="de05Mdl.ProductSale" Width="1.5" PointX="5.25" PointY="3.375" />
+        <EntityTypeShape EntityType="de05Mdl.ProductType" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="de05Mdl.Shop" Width="1.5" PointX="5.25" PointY="21.625" />
+        <EntityTypeShape EntityType="de05Mdl.Supplier" Width="1.5" PointX="5.25" PointY="12.75" />
+        <EntityTypeShape EntityType="de05Mdl.sysdiagrams" Width="1.5" PointX="7.75" PointY="3.25" />
+        <AssociationConnector Association="de05Mdl.FK_Agent_AgentType" />
+        <AssociationConnector Association="de05Mdl.FK_AgentPriorityHistory_Agent" />
+        <AssociationConnector Association="de05Mdl.FK_ProductSale_Agent" />
+        <AssociationConnector Association="de05Mdl.FK_Shop_Agent" />
+        <AssociationConnector Association="de05Mdl.FK_Material_MaterialType" />
+        <AssociationConnector Association="de05Mdl.FK_MaterialCountHistory_Material" />
+        <AssociationConnector Association="de05Mdl.FK_ProductMaterial_Material" />
+        <AssociationConnector Association="de05Mdl.FK_Product_ProductType" />
+        <AssociationConnector Association="de05Mdl.FK_ProductCostHistory_Product" />
+        <AssociationConnector Association="de05Mdl.FK_ProductMaterial_Product" />
+        <AssociationConnector Association="de05Mdl.FK_ProductSale_Product" />
+        <AssociationConnector Association="de05Mdl.MaterialSupplier" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
